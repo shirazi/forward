@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container">
+		<Label id="label">Forward Money</Label>
+    <Button>LOGIN</Button>
+	</Window>
+</Alloy>
