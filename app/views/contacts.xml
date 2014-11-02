@@ -1,0 +1,6 @@
+<Alloy>
+  <Window id="contactsWindow" class="container">
+    <Label id="label">Contacts</Label>
+    <View id="next" />    
+  </Window>
+</Alloy>

@@ -1,0 +1,6 @@
+<Alloy>
+  <Window id="confirmationWindow" class="container">
+    <Label id="label">Confirmation</Label>
+    <View id="next" />
+  </Window>
+</Alloy>

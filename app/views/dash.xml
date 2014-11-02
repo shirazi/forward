@@ -1,0 +1,6 @@
+<Alloy>
+  <Window id="dashWindow" class="container">
+    <Label id="label">Balance</Label>
+    <View id="next" />   
+  </Window>
+</Alloy>

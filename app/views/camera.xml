@@ -1,0 +1,6 @@
+<Alloy>
+  <Window id="cameraWindow" class="container">
+    <Label id="label">Camera</Label>
+    <View id="next" />
+  </Window>
+</Alloy>

@@ -1,6 +1,6 @@
 <Alloy>
-	<Window class="container">
-		<Label id="label">Forward Money</Label>
-    <Button>LOGIN</Button>
+	<Window id="indexWindow" class="container">
+		<Label id="label">Money</Label>
+    <View id="next" /> 
 	</Window>
 </Alloy>

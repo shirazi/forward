@@ -1,0 +1,6 @@
+<Alloy>
+  <Window id="categoryWindow" class="container">
+    <Label id="label">Cateories</Label>
+    <View id="next" />
+  </Window>
+</Alloy>
